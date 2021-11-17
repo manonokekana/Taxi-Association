@@ -3,7 +3,7 @@
 Taxi association is a proposed application that is used to keep track of driver and taxi attributes such as (license disk exp date etc).
 
 PROJECT LINK
-https://mpakengconsulting.co.za/taxi/
+https://freelancecommunity.co.za/taxi/index.php
 
 ADMIN
 Username : admin
